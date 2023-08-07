@@ -1,0 +1,10 @@
+# Place your report here
+
+# References
+
+1. https://www.kernel.org/doc/Documentation/DMA-API-HOWTO.txt
+2. https://olegkutkov.me/2021/01/07/writing-a-pci-device-driver-for-linux/
+3. Bootlin
+4. Class Slides
+5. Google
+6. https://github.com/olegkutkov/lir941_linux_driver
